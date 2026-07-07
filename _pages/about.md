@@ -5,4 +5,4 @@ title: "About"
 
 
 i run <a href="https://wwww.feralarchive.org">feralarchive.org</a>
-here's a video i never posted to insta: "/assets/video/INSTA today is about disrespect.mp4"
+here's a video i never posted to insta: /assets/video/INSTA today is about disrespect.mp4
