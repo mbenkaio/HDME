@@ -1,6 +1,8 @@
+
 ---
-permalink: /French Hydrogeographic Data/
-title: "French Hydrogeographic Data"
+layout: single
+title: "French Hydrogeographic Data - Data used for Summary on French Water Sources"
+permalink: /French Hydrogeographic Data Explanation/
 ---
 
 # FR.txt File Contents

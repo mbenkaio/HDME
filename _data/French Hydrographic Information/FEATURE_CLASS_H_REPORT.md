@@ -1,3 +1,11 @@
+
+---
+layout: single
+title: "French Hydrogeographic Data - Summary on French Water Sources"
+permalink: /French Hydrogeographic Data Summary/
+
+---
+
 # Feature Class H Report - Water Features in France
 
 ## Executive Summary
