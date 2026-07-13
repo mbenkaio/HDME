@@ -1,3 +1,8 @@
+---
+permalink: /French Hydrogeographic Data/
+title: "French Hydrogeographic Data"
+---
+
 # FR.txt File Contents
 
 ## Overview
